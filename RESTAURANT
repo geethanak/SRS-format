@@ -1,0 +1,23 @@
+SRS FORMAT
+INTRODUCTION:-
+            USER can food details from menu & order the food very fast ...
+            user can get the inforamtion of available food in menu cart
+
+SCOPE):-
+		the scope of this project is provide a easy way to order the food
+		they can select the table service
+		then can select VIP RESERVATION 
+		they can easily get the food in a short time
+
+PURPOSE:-
+		 USER can food details from menu & order the food very fast ...
+        order will passed soon ...
+
+Functional requirement:
+					the menu should be updated
+					the availbale food details will be showed
+					the payment option will be given
+
+Non-Functional requirement:
+			Security:- security is more important...this website can be hacked by others
+			update:- update the food requirement
